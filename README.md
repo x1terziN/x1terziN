@@ -1,8 +1,8 @@
-- 👋 Oi, eu sou @x1terziN
-- 👀 interessado em TI
-- 🌱 estou aprendendo no momento English
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- # sobre mim 
+- # meu nome é João Vitor
+- # my email is silva.oliveira.joao2305@escola.pr.gov.br
+- # in the moment learn programations linguages
+- 
 
 <!---
 x1terziN/x1terziN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
